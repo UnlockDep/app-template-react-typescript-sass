@@ -10,7 +10,8 @@
     "url": "https://github.com/UnlockDep/app-template-react-sass.git"
   },
   "keywords": [
-    "csa-template"
+    "csa-template",
+    "webpack"
   ],
   "publishConfig": {
     "access": "public"

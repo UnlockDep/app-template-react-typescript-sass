@@ -1,4 +1,4 @@
-# Template Made By [UnlockDep](https://github.com/UnlockDep/)
+# Template Made By [UnlockDep](https://github.com/UnlockDep/) and [Not Existing](https://github.com/N0tExisting)
 
 > React + Typescript + Sass
 
