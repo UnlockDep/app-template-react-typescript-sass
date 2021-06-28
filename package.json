@@ -1,7 +1,7 @@
 {
   "name": "@unlockdep/app-template-react-typescript-sass",
   "description": "A preconfigured template for Snowpack with React, Typescript and Sass",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "license": "LICENSE",
   "bugs": "https://github.com/UnlockDep/app-template-react-sass/issues",
   "homepage": "https://github.com/UnlockDep/app-template-react-sass#readme",
